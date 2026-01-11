@@ -1,1 +1,1 @@
-print("Whats   the dgdhh up Buddy---- v9")
+print("Whatsup Buddy---- v9")
